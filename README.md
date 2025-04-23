@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @GizliBaskan
-- 👀 I’m interested in minecraft software
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m Furkan Salim Binici  
+- 👀 I’m interested in software
 - 📫 How to reach me furkansb1040@gmail.com - @furkann.sb
 
 <!---
